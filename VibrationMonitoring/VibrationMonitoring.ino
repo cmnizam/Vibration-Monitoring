@@ -25,7 +25,7 @@ double vImag[SAMPLES];
 double motorRPM = 1800; 
 double motorFreq_Hz;
 
-double faultThreshold = 1500; 
+double faultThreshold = 7000; 
 
 void setup() {
   Serial.begin(115200);
