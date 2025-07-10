@@ -31,7 +31,7 @@ Change the apiKey
 Adjust the RPM and the faultThreshold based on system
 ```bash
   double motorRPM = 1800; 
-  double faultThreshold = 1500; 
+  double faultThreshold = 7000; 
 ```
 
 Upload code 
